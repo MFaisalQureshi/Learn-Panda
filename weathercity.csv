@@ -1,0 +1,13 @@
+day,city,temperature,windspead,event
+01/01/21,Karachi,30,5,sunny
+02/01/21,Karachi,32,8,cloudy
+03/01/21,Karachi,36,10,sunny
+04/01/21,Karachi,38,6,cloudy
+05/01/21,Lahore,22,12,cloudy
+06/01/21,Lahore,25,15,rain
+07/01/21,Lahore,28,10,rain
+08/01/21,Lahore,30,11,sunny
+09/01/21,Islamabad,20,8,rain
+10/01/21,Islamabad,18,6,cloudy
+11/01/21,Islamabad,22,7,rain
+11/01/21,Islamabad,25,9,sunny
